@@ -18,6 +18,7 @@
     "cors": "^2.8.6",
     "dotenv": "^17.3.1",
     "express": "^5.2.1",
+    "express-validator": "^7.3.1",
     "glob": "^13.0.6",
     "jsonwebtoken": "^9.0.3",
     "mongoose": "^9.2.3",
@@ -30,7 +31,9 @@
     "@types/express": "^5.0.6",
     "@types/jsonwebtoken": "^9.0.10",
     "@types/node": "^25.3.3",
+    "nodemon": "^3.1.14",
     "ts-node-dev": "^2.0.0",
+    "ts-server": "^0.0.15",
     "typescript": "^5.9.3"
   }
 }
